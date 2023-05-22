@@ -2,17 +2,21 @@
 
 // console.log("js test");
 
-let num = 5;
+// let num = 5;
 
-let name = 'john';
+// console.log(typeof name3);
 
-let isMonday = true;
+// let name = 'john';
 
-let name2 = null;
+// let isMonday = true;
 
-let name3 = undefined;
+// let name2 = null;
 
-let student = {
-    name:"Mai",
-    age: 29,
-};
+// let name3 = undefined;
+
+// let student = {
+//     name:"Mai",
+//     age: 29,
+// };
+
+console.log(4 < 5);
